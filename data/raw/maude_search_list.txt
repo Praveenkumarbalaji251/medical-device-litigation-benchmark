@@ -1,0 +1,53 @@
+DEVICE NAMES FOR MAUDE DATABASE SEARCH
+========================================
+
+Philips DreamStation CPAP
+Philips DreamStation Go CPAP
+Philips BiPAP Auto
+Philips SystemOne REMstar
+ResMed AirSense CPAP
+Fisher & Paykel CPAP
+Respironics BiPAP Vision
+Philips Trilogy Ventilator
+Ethicon Physiomesh Flexible Composite Mesh
+Ethicon Proceed Surgical Mesh
+Atrium C-QUR Mesh
+Bard Composix Kugel Mesh
+Bard 3DMax Mesh
+Bard Ventralex Hernia Patch
+Boston Scientific ProGrip Mesh
+Covidien Parietex Composite Mesh
+Gore Bio-A Tissue Reinforcement
+LifeCell AlloDerm Regenerative Tissue Matrix
+Medtronic Symbotex Composite Mesh
+Cook Biodesign Hernia Graft
+DePuy ASR XL Acetabular System
+DePuy Pinnacle Hip System
+Exactech Optetrak Comprehensive Knee
+Exactech Novation Hip System
+Zimmer Biomet Comprehensive Knee
+Stryker Rejuvenate Hip System
+Stryker ABG II Hip System
+Wright Medical Profemur Hip System
+MicroPort Orthopedics M2a-Magnum Hip
+Smith & Nephew Birmingham Hip Resurfacing
+Johnson & Johnson Ethicon Transvaginal Mesh
+Bayer Essure Permanent Birth Control
+Boston Scientific Transvaginal Mesh
+American Medical Systems Transvaginal Mesh
+Coloplast Restorelle Mesh
+Endo Pharmaceuticals Transvaginal Mesh
+Medtronic Sprint Fidelis Leads
+Boston Scientific Guidant Defibrillators
+Abbott St. Jude Riata Leads
+Medtronic SureScan Pacemaker
+Boston Scientific S-ICD Defibrillator
+Boston Scientific Spinal Cord Stimulator
+Medtronic Pain Pump System
+Nevro Senza Spinal Cord Stimulator
+Abbott Proclaim Spinal Cord Stimulator
+Ethicon Power Morcellator
+da Vinci Surgical Robot System
+Ethicon Echelon Circular Stapler
+Medtronic Infuse Bone Graft
+NuVasive XLIF Spinal System

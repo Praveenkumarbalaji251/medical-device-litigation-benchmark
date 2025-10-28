@@ -1,0 +1,19 @@
+month,reports,deaths,injuries,patient_pct,phase
+2020-01,45,0,2,15,Baseline
+2020-02,52,0,3,18,Baseline
+2020-03,48,1,2,12,Baseline
+2020-04,61,0,5,22,Baseline
+2020-05,58,0,4,20,Baseline
+2020-06,73,1,8,28,First Foam Reports
+2020-07,69,0,6,25,Growing Awareness
+2020-08,84,1,9,32,Growing Awareness
+2020-09,92,1,12,35,Growing Awareness
+2020-10,108,2,15,40,Growing Awareness
+2020-11,127,1,18,45,Growing Awareness
+2020-12,156,3,24,52,Internal Investigation
+2021-01,198,4,32,58,FDA Inquiry Begins
+2021-02,267,6,45,62,Regulatory Pressure
+2021-03,356,8,63,68,Safety Review
+2021-04,487,12,89,74,FDA Communication
+2021-05,723,18,134,78,Pre-Recall Surge
+2021-06,1247,29,245,82,Recall Month

@@ -1,0 +1,43 @@
+{
+  "device": "DreamStation",
+  "analysis_period": "January - July 2021",
+  "litigation_date": "2021-07-01",
+  "monthly_counts": [
+    {
+      "month": 2,
+      "month_name": "February",
+      "count": 3
+    },
+    {
+      "month": 3,
+      "month_name": "March",
+      "count": 3
+    },
+    {
+      "month": 4,
+      "month_name": "April",
+      "count": 2
+    },
+    {
+      "month": 5,
+      "month_name": "May",
+      "count": 68
+    },
+    {
+      "month": 6,
+      "month_name": "June",
+      "count": 96
+    },
+    {
+      "month": 7,
+      "month_name": "July",
+      "count": 382
+    }
+  ],
+  "summary": {
+    "baseline": 3,
+    "peak_june": 96,
+    "litigation_month_july": 382,
+    "increase_pct": 3100.0
+  }
+}

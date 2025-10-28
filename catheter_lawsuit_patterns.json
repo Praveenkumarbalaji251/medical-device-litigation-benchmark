@@ -1,0 +1,170 @@
+[
+  {
+    "device": "Bard PowerPort",
+    "brand": "PowerPort",
+    "case_filed": "2022-08-01",
+    "total_all_time": 5940,
+    "total_6month": 435,
+    "first_month": 48,
+    "last_month": 28,
+    "multiplier": 0.5833333333333334,
+    "pattern": "REVERSE/FLAT",
+    "deaths": 71,
+    "injuries": 3000,
+    "malfunctions": 2861,
+    "monthly_counts": [
+      {
+        "month": "2021-08",
+        "count": 48
+      },
+      {
+        "month": "2021-09",
+        "count": 40
+      },
+      {
+        "month": "2021-10",
+        "count": 47
+      },
+      {
+        "month": "2021-11",
+        "count": 29
+      },
+      {
+        "month": "2021-12",
+        "count": 39
+      },
+      {
+        "month": "2022-01",
+        "count": 34
+      },
+      {
+        "month": "2022-02",
+        "count": 36
+      },
+      {
+        "month": "2022-03",
+        "count": 26
+      },
+      {
+        "month": "2022-04",
+        "count": 44
+      },
+      {
+        "month": "2022-05",
+        "count": 32
+      },
+      {
+        "month": "2022-06",
+        "count": 32
+      },
+      {
+        "month": "2022-07",
+        "count": 28
+      }
+    ]
+  },
+  {
+    "device": "Cook IVC Filter",
+    "brand": "Celect",
+    "case_filed": "2014-08-01",
+    "total_all_time": 4934,
+    "total_6month": 28,
+    "first_month": 2,
+    "last_month": 5,
+    "multiplier": 2.5,
+    "pattern": "MODERATE SPIKE",
+    "deaths": 59,
+    "injuries": 3396,
+    "malfunctions": 1447,
+    "monthly_counts": [
+      {
+        "month": "2013-08",
+        "count": 2
+      },
+      {
+        "month": "2013-09",
+        "count": 1
+      },
+      {
+        "month": "2013-10",
+        "count": 1
+      },
+      {
+        "month": "2013-11",
+        "count": 3
+      },
+      {
+        "month": "2013-12",
+        "count": 1
+      },
+      {
+        "month": "2014-01",
+        "count": 2
+      },
+      {
+        "month": "2014-02",
+        "count": 2
+      },
+      {
+        "month": "2014-03",
+        "count": 2
+      },
+      {
+        "month": "2014-04",
+        "count": 2
+      },
+      {
+        "month": "2014-05",
+        "count": 4
+      },
+      {
+        "month": "2014-06",
+        "count": 3
+      },
+      {
+        "month": "2014-07",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "device": "Bard IVC Filter",
+    "brand": "G2",
+    "case_filed": "2015-04-01",
+    "total_all_time": 7943,
+    "total_6month": 333,
+    "first_month": 55,
+    "last_month": 71,
+    "multiplier": 1.290909090909091,
+    "pattern": "MINIMAL CHANGE",
+    "deaths": 115,
+    "injuries": 3524,
+    "malfunctions": 4270,
+    "monthly_counts": [
+      {
+        "month": "2014-10",
+        "count": 55
+      },
+      {
+        "month": "2014-11",
+        "count": 58
+      },
+      {
+        "month": "2014-12",
+        "count": 54
+      },
+      {
+        "month": "2015-01",
+        "count": 55
+      },
+      {
+        "month": "2015-02",
+        "count": 40
+      },
+      {
+        "month": "2015-03",
+        "count": 71
+      }
+    ]
+  }
+]

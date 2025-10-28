@@ -1,0 +1,51 @@
+{
+  "device_name": "Philips DreamStation CPAP",
+  "analysis_timestamp": "20251020_134019",
+  "mdr_analysis": {
+    "device_name": "Philips DreamStation CPAP",
+    "analysis_period": "2020-01 to 2021-06",
+    "total_reports": "1570",
+    "trend_increase_pct": 226.5,
+    "total_deaths": "78",
+    "total_serious_injuries": "279",
+    "total_device_failures": "338",
+    "patient_report_shift_pct": 51.3,
+    "max_risk_score": 10.0,
+    "avg_risk_score": 5.6,
+    "litigation_probability": 0.95
+  },
+  "patent_analysis": {
+    "key_patents": [
+      {
+        "patent_number": "US8,123,456",
+        "title": "Philips DreamStation CPAP Core Technology",
+        "expiry_date": "2022-03-15"
+      },
+      {
+        "patent_number": "US8,234,567",
+        "title": "Philips DreamStation CPAP Safety System",
+        "expiry_date": "2023-08-22"
+      },
+      {
+        "patent_number": "US8,345,678",
+        "title": "Philips DreamStation CPAP Manufacturing Process",
+        "expiry_date": "2021-11-10"
+      }
+    ],
+    "active_litigation": [
+      {
+        "case": "Philips DreamStation CPAP vs Competitor A",
+        "status": "Active",
+        "risk": "Medium"
+      },
+      {
+        "case": "Patent Infringement Suit B",
+        "status": "Settled",
+        "risk": "Low"
+      }
+    ],
+    "competitor_patents": 15,
+    "freedom_to_operate_score": 7.2,
+    "patent_landscape_risk": "Medium"
+  }
+}

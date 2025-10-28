@@ -1,0 +1,38 @@
+MEDICAL DEVICE NAMES FOR MAUDE COMPARISON
+=============================================
+
+CURRENT MAJOR LITIGATION:
+Philips DreamStation CPAP
+Philips BiPAP
+Philips CPAP Foam Degradation
+Ethicon Hernia Mesh
+Atrium Hernia Mesh
+Bard Hernia Mesh
+Boston Scientific Hernia Mesh
+Exactech Knee Replacement
+Exactech Hip Replacement
+Teleflex UroLift
+Abbott FreeStyle Libre
+Zimmer Biomet Comprehensive Knee
+Medtronic MiniMed Insulin Pump
+
+HISTORIC MAJOR CASES:
+Johnson & Johnson Transvaginal Mesh
+Ethicon Transvaginal Mesh
+DePuy ASR Hip Replacement
+DePuy Pinnacle Hip Replacement
+Bayer Essure Sterilization Device
+3M Combat Arms Earplugs
+Sulzer Hip Prosthesis
+Guidant Pacemaker
+Guidant Defibrillator
+Medtronic Infuse Bone Graft
+Boston Scientific Guidant Defibrillator
+
+EMERGING LITIGATION:
+Zimmer Biomet Comprehensive Knee
+Abbott FreeStyle Libre CGM
+Medtronic MiniMed 670G
+Teleflex UroLift System
+da Vinci Surgical Robot
+Intuitive Surgical da Vinci

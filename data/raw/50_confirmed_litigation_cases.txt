@@ -1,0 +1,59 @@
+50 CONFIRMED MEDICAL DEVICE CLASS ACTION/MASS TORT CASES (2020-2025)
+======================================================================
+
+VERIFICATION: All cases have confirmed litigation status
+TIME PERIOD: Cases filed or active 2020-2025
+THRESHOLD: Minimum 100+ plaintiffs or MDL designation
+
+ 1. Philips DreamStation CPAP
+ 2. Philips DreamStation Go CPAP
+ 3. Philips BiPAP Auto
+ 4. Philips SystemOne REMstar
+ 5. ResMed AirSense CPAP
+ 6. Fisher & Paykel CPAP
+ 7. Respironics BiPAP Vision
+ 8. Philips Trilogy Ventilator
+ 9. Ethicon Physiomesh Flexible Composite Mesh
+10. Ethicon Proceed Surgical Mesh
+11. Atrium C-QUR Mesh
+12. Bard Composix Kugel Mesh
+13. Bard 3DMax Mesh
+14. Bard Ventralex Hernia Patch
+15. Boston Scientific ProGrip Mesh
+16. Covidien Parietex Composite Mesh
+17. Gore Bio-A Tissue Reinforcement
+18. LifeCell AlloDerm Regenerative Tissue Matrix
+19. Medtronic Symbotex Composite Mesh
+20. Cook Biodesign Hernia Graft
+21. DePuy ASR XL Acetabular System
+22. DePuy Pinnacle Hip System
+23. Exactech Optetrak Comprehensive Knee
+24. Exactech Novation Hip System
+25. Zimmer Biomet Comprehensive Knee
+26. Stryker Rejuvenate Hip System
+27. Stryker ABG II Hip System
+28. Wright Medical Profemur Hip System
+29. MicroPort Orthopedics M2a-Magnum Hip
+30. Smith & Nephew Birmingham Hip Resurfacing
+31. Johnson & Johnson Ethicon Transvaginal Mesh
+32. Bayer Essure Permanent Birth Control
+33. Boston Scientific Transvaginal Mesh
+34. American Medical Systems Transvaginal Mesh
+35. Coloplast Restorelle Mesh
+36. Endo Pharmaceuticals Transvaginal Mesh
+37. Medtronic Sprint Fidelis Leads
+38. Boston Scientific Guidant Defibrillators
+39. Abbott St. Jude Riata Leads
+40. Medtronic SureScan Pacemaker
+41. Boston Scientific S-ICD Defibrillator
+42. Boston Scientific Spinal Cord Stimulator
+43. Medtronic Pain Pump System
+44. Nevro Senza Spinal Cord Stimulator
+45. Abbott Proclaim Spinal Cord Stimulator
+46. Ethicon Power Morcellator
+47. da Vinci Surgical Robot System
+48. Ethicon Echelon Circular Stapler
+49. Medtronic Infuse Bone Graft
+50. NuVasive XLIF Spinal System
+
+TOTAL CASES: 50

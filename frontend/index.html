@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MDL Litigation Intelligence Platform | 48 Cases | 324K+ MDRs</title>
+    <title>MDL Litigation Intelligence Platform | 49 Cases | 330K+ MDRs</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -583,7 +583,7 @@
         <div class="nav-brand">
             <div class="nav-brand-icon">ML</div>
             <span>MDL Litigation Intelligence</span>
-            <span class="new-badge" style="margin-left: 12px;">48 CASES</span>
+            <span class="new-badge" style="margin-left: 12px;">49 CASES</span>
         </div>
         <div class="nav-meta">
             <div class="nav-meta-item">
@@ -727,7 +727,7 @@
         // Load data
         async function loadData() {
             try {
-                const response = await fetch('data/benchmark_cases_data_v48.json');
+                const response = await fetch('data/benchmark_cases_data_v49.json');
                 casesData = await response.json();
                 
                 document.getElementById('lastUpdated').textContent = `Updated ${casesData.generated_at}`;
@@ -795,15 +795,17 @@
         }
         
         function renderCaseList() {
-            // MDL numbers for the 19 NEW expansion cases (v48 update)
+            // MDL numbers for the 20 NEW expansion cases (v49 update - includes FreeStyle Libre)
             const newCaseMDLs = ['2974', '2996', '2775', '2666', '3032', '2928', '2787', '2868', '2768', '2903', '3070', '2428', '2904', '2995', '2881', '2749', '2965', '2848', null];
+            // Also mark FreeStyle Libre as new (it has null MDL but is the 49th case)
+            const newCaseNames = ['Abbott FreeStyle Libre CGM'];
             
             const html = casesData.cases.map((caseData, index) => {
                 const statusBadge = caseData.status === 'Settled' 
                     ? '<span class="status-badge settled">Settled</span>' 
                     : '<span class="status-badge active">Active</span>';
                 
-                const isNew = newCaseMDLs.includes(caseData.mdl_number);
+                const isNew = newCaseMDLs.includes(caseData.mdl_number) || newCaseNames.includes(caseData.name || caseData.case_name);
                 const newBadge = isNew ? '<span class="new-badge">NEW</span>' : '';
                 
                 const totalMDRs = caseData.totals?.total || caseData.total_mdrs || 0;

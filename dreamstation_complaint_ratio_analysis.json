@@ -1,0 +1,63 @@
+{
+  "device": "DreamStation",
+  "analysis_date": "2025-10-20",
+  "source_breakdown": {
+    "Patient": 0,
+    "User Facility": 1,
+    "Manufacturer": 177675,
+    "Distributor": 1,
+    "Other": 0
+  },
+  "occupation_breakdown": {
+    "Physician": 31,
+    "Nurse": 4,
+    "Other Health Professional": 0,
+    "Consumer/Patient": 0,
+    "Lawyer": 0,
+    "Unknown": 78
+  },
+  "monthly_2021": [
+    {
+      "month": "Feb",
+      "total": 3,
+      "patient": 0,
+      "manufacturer": 3,
+      "patient_pct": 0.0
+    },
+    {
+      "month": "Mar",
+      "total": 3,
+      "patient": 0,
+      "manufacturer": 3,
+      "patient_pct": 0.0
+    },
+    {
+      "month": "Apr",
+      "total": 2,
+      "patient": 0,
+      "manufacturer": 2,
+      "patient_pct": 0.0
+    },
+    {
+      "month": "May",
+      "total": 68,
+      "patient": 0,
+      "manufacturer": 68,
+      "patient_pct": 0.0
+    },
+    {
+      "month": "Jun",
+      "total": 96,
+      "patient": 0,
+      "manufacturer": 76,
+      "patient_pct": 0.0
+    },
+    {
+      "month": "Jul",
+      "total": 382,
+      "patient": 0,
+      "manufacturer": 259,
+      "patient_pct": 0.0
+    }
+  ]
+}

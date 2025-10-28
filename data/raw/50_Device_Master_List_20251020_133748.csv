@@ -1,0 +1,51 @@
+Device_ID,Device_Name,Manufacturer,Category,MDL_Number,Litigation_Start_Date,MAUDE_Analysis_Start,MAUDE_Critical_Period,Litigation_Filing_Date,Status,Priority
+DEV_001,Philips DreamStation CPAP,Philips Healthcare,Respiratory Devices,3014,2021-07,2020-07-01,2021-01-02,2021-07-01,Active MDL,High
+DEV_002,ResMed AirSense CPAP,ResMed,Respiratory Devices,3045,2022-03,2021-03-01,2021-09-02,2022-03-01,Active MDL,High
+DEV_003,Philips BiPAP Ventilators,Philips Healthcare,Respiratory Devices,3025,2021-09,2020-09-01,2021-03-05,2021-09-01,Active MDL,High
+DEV_004,Fisher & Paykel Oxygen Concentrators,Fisher & Paykel,Respiratory Devices,2998,2020-11,2019-11-02,2020-05-05,2020-11-01,Active MDL,High
+DEV_005,Inogen Oxygen Concentrators,Inogen,Respiratory Devices,3010,2021-05,2020-05-01,2020-11-02,2021-05-01,Active MDL,High
+DEV_006,Respironics V60 Ventilator,Philips Respironics,Respiratory Devices,2985,2020-08,2019-08-02,2020-02-03,2020-08-01,Active MDL,High
+DEV_007,DeVilbiss Oxygen Concentrators,DeVilbiss Healthcare,Respiratory Devices,3032,2022-01,2021-01-01,2021-07-05,2022-01-01,Active MDL,High
+DEV_008,COPD Inhalers Class Action,Various,Respiratory Devices,3028,2021-12,2020-12-01,2021-06-04,2021-12-01,Active MDL,High
+DEV_009,Ethicon Physiomesh,Johnson & Johnson,Hernia Mesh,2782,2020-06,2019-06-02,2019-12-04,2020-06-01,Active MDL,Medium
+DEV_010,C.R. Bard Mesh Products,Becton Dickinson,Hernia Mesh,2846,2020-09,2019-09-02,2020-03-05,2020-09-01,Active MDL,Medium
+DEV_011,Atrium C-Qur Mesh,Atrium Medical,Hernia Mesh,2999,2021-02,2020-02-02,2020-08-05,2021-02-01,Active MDL,Medium
+DEV_012,LifeCell AlloDerm Mesh,Allergan,Hernia Mesh,2995,2020-12,2019-12-02,2020-06-04,2020-12-01,Active MDL,Medium
+DEV_013,Covidien Parietex Mesh,Medtronic,Hernia Mesh,3018,2021-08,2020-08-01,2021-02-02,2021-08-01,Active MDL,Medium
+DEV_014,Gore Bio-A Mesh,W.L. Gore,Hernia Mesh,3048,2022-04,2021-04-01,2021-10-03,2022-04-01,Active MDL,Medium
+DEV_015,Boston Scientific Mesh,Boston Scientific,Hernia Mesh,2990,2020-10,2019-10-02,2020-04-04,2020-10-01,Active MDL,Medium
+DEV_016,Davol Bard Mesh,Becton Dickinson,Hernia Mesh,3012,2021-06,2020-06-01,2020-12-03,2021-06-01,Active MDL,Medium
+DEV_017,Ethicon Proceed Mesh,Johnson & Johnson,Hernia Mesh,3026,2021-11,2020-11-01,2021-05-05,2021-11-01,Active MDL,Medium
+DEV_018,TEI Biosciences Mesh,TEI Biosciences,Hernia Mesh,3038,2022-02,2021-02-01,2021-08-05,2022-02-01,Active MDL,Medium
+DEV_019,Cook Biodesign Mesh,Cook Medical,Hernia Mesh,2978,2020-07,2019-07-02,2020-01-03,2020-07-01,Active MDL,Medium
+DEV_020,Synthetic Mesh Class Action,Various,Hernia Mesh,3005,2021-03,2020-03-01,2020-09-02,2021-03-01,Active MDL,Medium
+DEV_021,DePuy ASR Hip Replacement,Johnson & Johnson,Orthopedic Implants,2197,2020-05,2019-05-02,2019-11-03,2020-05-01,Settled/Resolved,Medium
+DEV_022,Stryker LFIT Hip Stems,Stryker,Orthopedic Implants,2996,2021-01,2020-01-02,2020-07-05,2021-01-01,Active MDL,Medium
+DEV_023,Zimmer Nexgen Knee,Zimmer Biomet,Orthopedic Implants,2852,2020-09,2019-09-02,2020-03-05,2020-09-01,Active MDL,Medium
+DEV_024,Wright Conserve Hip,Wright Medical,Orthopedic Implants,3015,2021-07,2020-07-01,2021-01-02,2021-07-01,Active MDL,Medium
+DEV_025,Smith & Nephew Hip Implants,Smith & Nephew,Orthopedic Implants,2992,2020-11,2019-11-02,2020-05-05,2020-11-01,Active MDL,Medium
+DEV_026,Biomet M2a Magnum Hip,Zimmer Biomet,Orthopedic Implants,3008,2021-04,2020-04-01,2020-10-03,2021-04-01,Active MDL,Medium
+DEV_027,Exactech Knee Replacements,Exactech,Orthopedic Implants,3058,2022-08,2021-08-01,2022-02-02,2022-08-01,Active MDL,Medium
+DEV_028,Stryker Rejuvenate Hip,Stryker,Orthopedic Implants,2441,2020-12,2019-12-02,2020-06-04,2020-12-01,Settled/Resolved,Medium
+DEV_029,DePuy Pinnacle Hip,Johnson & Johnson,Orthopedic Implants,2244,2021-09,2020-09-01,2021-03-05,2021-09-01,Settled/Resolved,Medium
+DEV_030,Metal-on-Metal Hip Class,Various,Orthopedic Implants,3011,2021-05,2020-05-01,2020-11-02,2021-05-01,Active MDL,Medium
+DEV_031,Ethicon Transvaginal Mesh,Johnson & Johnson,Womens Health,2327,2020-08,2019-08-02,2020-02-03,2020-08-01,Settled/Resolved,Medium
+DEV_032,Boston Scientific Mesh,Boston Scientific,Womens Health,2326,2021-03,2020-03-01,2020-09-02,2021-03-01,Settled/Resolved,Medium
+DEV_033,American Medical Systems Mesh,Endo International,Womens Health,2325,2020-10,2019-10-02,2020-04-04,2020-10-01,Settled/Resolved,Medium
+DEV_034,C.R. Bard Avaulta Mesh,Becton Dickinson,Womens Health,2187,2021-06,2020-06-01,2020-12-03,2021-06-01,Settled/Resolved,Medium
+DEV_035,Coloplast Restorelle Mesh,Coloplast,Womens Health,3029,2021-12,2020-12-01,2021-06-04,2021-12-01,Active MDL,Medium
+DEV_036,Nuvaring Birth Control,Merck,Womens Health,3033,2022-01,2021-01-01,2021-07-05,2022-01-01,Active MDL,Medium
+DEV_037,Medtronic Sprint Fidelis Leads,Medtronic,Cardiac Devices,1905,2020-07,2019-07-02,2020-01-03,2020-07-01,Settled/Resolved,High
+DEV_038,St. Jude Riata Leads,Abbott,Cardiac Devices,3001,2021-02,2020-02-02,2020-08-05,2021-02-01,Active MDL,High
+DEV_039,Boston Scientific Defibrillators,Boston Scientific,Cardiac Devices,2993,2020-12,2019-12-02,2020-06-04,2020-12-01,Active MDL,High
+DEV_040,Medtronic HeartWare HVAD,Medtronic,Cardiac Devices,3019,2021-08,2020-08-01,2021-02-02,2021-08-01,Active MDL,High
+DEV_041,Abbott MitraClip Devices,Abbott,Cardiac Devices,3051,2022-05,2021-05-01,2021-11-02,2022-05-01,Active MDL,High
+DEV_042,Medtronic Pain Pumps,Medtronic,Pain Management,1761,2020-06,2019-06-02,2019-12-04,2020-06-01,Settled/Resolved,Medium
+DEV_043,Abbott Spinal Cord Stimulators,Abbott,Pain Management,3024,2021-10,2020-10-01,2021-04-04,2021-10-01,Active MDL,Medium
+DEV_044,Boston Scientific SCS Systems,Boston Scientific,Pain Management,3009,2021-04,2020-04-01,2020-10-03,2021-04-01,Active MDL,Medium
+DEV_045,Nevro Spinal Stimulators,Nevro,Pain Management,3044,2022-03,2021-03-01,2021-09-02,2022-03-01,Active MDL,Medium
+DEV_046,Ethicon Power Morcellators,Johnson & Johnson,Surgical Devices,2652,2020-09,2019-09-02,2020-03-05,2020-09-01,Active MDL,Medium
+DEV_047,da Vinci Surgical Robots,Intuitive Surgical,Surgical Devices,3016,2021-07,2020-07-01,2021-01-02,2021-07-01,Active MDL,Medium
+DEV_048,Covidien Surgical Staplers,Medtronic,Surgical Devices,3027,2021-11,2020-11-01,2021-05-05,2021-11-01,Active MDL,Medium
+DEV_049,Medtronic Infuse Bone Graft,Medtronic,Orthobiologics,2748,2020-11,2019-11-02,2020-05-05,2020-11-01,Active MDL,Medium
+DEV_050,Zimmer Pulsavac Wound Irrigation,Zimmer Biomet,Orthobiologics,3023,2021-09,2020-09-01,2021-03-05,2021-09-01,Active MDL,Medium

@@ -1,0 +1,402 @@
+{
+  "generated": "2025-10-20T15:51:20.824833",
+  "total_devices_analyzed": 22,
+  "results": [
+    {
+      "device": "Philips CPAP Suite",
+      "primary_search_term": "DreamStation",
+      "total_reports": 178755,
+      "recent_6m_count": 4008,
+      "litigation_filed": "2021-07-01",
+      "mdl": "3014",
+      "settlement": "$1.1B",
+      "last_updated": "2025-10-20T15:50:44.331048",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Medtronic Sprint Fidelis",
+      "primary_search_term": "Sprint",
+      "total_reports": 118259,
+      "recent_6m_count": 3896,
+      "litigation_filed": "2007-11",
+      "mdl": "1905",
+      "settlement": "$268M",
+      "last_updated": "2025-10-20T15:51:16.015528",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Atrium C-QUR Mesh",
+      "primary_search_term": "C-QUR",
+      "total_reports": 113825,
+      "recent_6m_count": 6611,
+      "litigation_filed": "2012-2013",
+      "mdl": "2753",
+      "settlement": "$300M+",
+      "last_updated": "2025-10-20T15:50:48.722554",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Bayer Essure",
+      "primary_search_term": "Essure",
+      "total_reports": 74417,
+      "recent_6m_count": 340,
+      "litigation_filed": "2015-2016",
+      "mdl": "2325",
+      "settlement": "$1.6B",
+      "last_updated": "2025-10-20T15:51:05.195369",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Endo Mesh",
+      "primary_search_term": "AMS",
+      "total_reports": 36398,
+      "recent_6m_count": 1949,
+      "litigation_filed": "2011-2012",
+      "mdl": "2329",
+      "settlement": "$1.2B+",
+      "last_updated": "2025-10-20T15:51:13.823667",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "DePuy Pinnacle Hip",
+      "primary_search_term": "Pinnacle",
+      "total_reports": 28733,
+      "recent_6m_count": 240,
+      "litigation_filed": "2011-2012",
+      "mdl": "2244",
+      "settlement": "$1B+",
+      "last_updated": "2025-10-20T15:50:53.126977",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Boston Scientific Mesh",
+      "primary_search_term": "Pinnacle",
+      "total_reports": 28733,
+      "recent_6m_count": 240,
+      "litigation_filed": "2011-2012",
+      "mdl": "2326",
+      "settlement": "$189M",
+      "last_updated": "2025-10-20T15:51:07.339651",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Ethicon Proceed Mesh",
+      "primary_search_term": "Proceed",
+      "total_reports": 5117,
+      "recent_6m_count": 157,
+      "litigation_filed": "2010-2012",
+      "mdl": "Part of J&J",
+      "settlement": "$8B+",
+      "last_updated": "2025-10-20T15:50:46.541730",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "AMS Mesh",
+      "primary_search_term": "Monarc",
+      "total_reports": 1756,
+      "recent_6m_count": 0,
+      "litigation_filed": "2011-2012",
+      "mdl": "2325",
+      "settlement": "$830M",
+      "last_updated": "2025-10-20T15:51:09.479248",
+      "risk_score": 3,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": true
+      }
+    },
+    {
+      "device": "DePuy ASR Hip",
+      "primary_search_term": "ASR",
+      "total_reports": 66019,
+      "recent_6m_count": 71,
+      "litigation_filed": "2010-09",
+      "mdl": "2197",
+      "settlement": "$4B+",
+      "last_updated": "2025-10-20T15:50:51.988851",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "J&J Transvaginal Mesh",
+      "primary_search_term": "Gynecare",
+      "total_reports": 35732,
+      "recent_6m_count": 37,
+      "litigation_filed": "2010-2011",
+      "mdl": "2327",
+      "settlement": "$8B+",
+      "last_updated": "2025-10-20T15:51:04.088485",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Medtronic Infuse",
+      "primary_search_term": "Infuse",
+      "total_reports": 13045,
+      "recent_6m_count": 31,
+      "litigation_filed": "2011-2012",
+      "mdl": "2254",
+      "settlement": "Confidential",
+      "last_updated": "2025-10-20T15:51:20.823271",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Zimmer NexGen",
+      "primary_search_term": "NexGen",
+      "total_reports": 12575,
+      "recent_6m_count": 394,
+      "litigation_filed": "2010-2011",
+      "mdl": "None",
+      "settlement": "Individual",
+      "last_updated": "2025-10-20T15:50:56.403048",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": false,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Boston Scientific Guidant",
+      "primary_search_term": "Contak",
+      "total_reports": 12469,
+      "recent_6m_count": 0,
+      "litigation_filed": "2005-2006",
+      "mdl": "1708",
+      "settlement": "$195M",
+      "last_updated": "2025-10-20T15:51:18.234430",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Bard Composix Kugel",
+      "primary_search_term": "Composix",
+      "total_reports": 11423,
+      "recent_6m_count": 36,
+      "litigation_filed": "2006-01",
+      "mdl": "1842",
+      "settlement": "$184M",
+      "last_updated": "2025-10-20T15:50:50.913545",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Zimmer Persona",
+      "primary_search_term": "Persona",
+      "total_reports": 9903,
+      "recent_6m_count": 741,
+      "litigation_filed": "2019-2020",
+      "mdl": "None",
+      "settlement": "Ongoing",
+      "last_updated": "2025-10-20T15:50:57.489768",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": true,
+        "accelerating": false,
+        "existing_litigation": false,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Ethicon Physiomesh",
+      "primary_search_term": "Physiomesh",
+      "total_reports": 6175,
+      "recent_6m_count": 22,
+      "litigation_filed": "2016-2017",
+      "mdl": "2782",
+      "settlement": "Ongoing",
+      "last_updated": "2025-10-20T15:50:45.398354",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Ethicon Morcellator",
+      "primary_search_term": "Morcellator",
+      "total_reports": 3897,
+      "recent_6m_count": 2,
+      "litigation_filed": "2014-08",
+      "mdl": "2586",
+      "settlement": "Individual",
+      "last_updated": "2025-10-20T15:51:19.386486",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Exactech Knee",
+      "primary_search_term": "Optetrak",
+      "total_reports": 2920,
+      "recent_6m_count": 93,
+      "litigation_filed": "2021-2022",
+      "mdl": "3044",
+      "settlement": "Pending",
+      "last_updated": "2025-10-20T15:50:55.285758",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Stryker Rejuvenate",
+      "primary_search_term": "Rejuvenate",
+      "total_reports": 1746,
+      "recent_6m_count": 5,
+      "litigation_filed": "2012-08",
+      "mdl": "2441",
+      "settlement": "$1B+",
+      "last_updated": "2025-10-20T15:50:59.672740",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Coloplast Mesh",
+      "primary_search_term": "Aris",
+      "total_reports": 1258,
+      "recent_6m_count": 11,
+      "litigation_filed": "2012-2013",
+      "mdl": "2387",
+      "settlement": "$16M",
+      "last_updated": "2025-10-20T15:51:11.657441",
+      "risk_score": 2,
+      "indicators": {
+        "high_volume": true,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    },
+    {
+      "device": "Smith & Nephew BHR",
+      "primary_search_term": "Birmingham",
+      "total_reports": 718,
+      "recent_6m_count": 9,
+      "litigation_filed": "2015-2016",
+      "mdl": "2775",
+      "settlement": "Individual",
+      "last_updated": "2025-10-20T15:51:00.757956",
+      "risk_score": 1,
+      "indicators": {
+        "high_volume": false,
+        "recent_spike": false,
+        "accelerating": false,
+        "existing_litigation": true,
+        "high_value": false
+      }
+    }
+  ]
+}

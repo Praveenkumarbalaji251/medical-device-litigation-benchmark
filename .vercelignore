@@ -1,0 +1,35 @@
+# Python files
+*.py
+*.pyc
+__pycache__/
+*.egg-info/
+venv/
+env/
+
+# Data processing files
+scripts/
+data/
+benchmark_cases_expansion_10/
+benchmark_cases_expansion_21/
+
+# Excel files
+*.xlsx
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
