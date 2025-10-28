@@ -1,0 +1,54 @@
+# Python files
+*.py
+*.pyc
+__pycache__/
+*.egg-info/
+venv/
+env/
+
+# Data processing files
+scripts/
+data/
+benchmark_cases_expansion_10/
+benchmark_cases_expansion_21/
+benchmark_cases/
+benchmark_cases_additional/
+benchmark_cases_expansion/
+benchmark_cases_settled/
+
+# Excel files
+*.xlsx
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/
+vercel.json
+.vercelignore
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other
+models/
+tests/
+docs/
+notebooks/
+src/
+config/
+benchmarks/
