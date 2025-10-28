@@ -28929,7 +28929,10 @@
           "injury": 0,
           "malfunction": 1
         }
-      ]
+      ],
+      "name": "3M Bair Hugger Warming Blanket",
+      "data_window": "Nov 2014 to Aug 2025",
+      "filing_date": "2015-12"
     },
     {
       "case_name": "Abbott HeartMate II LVAD",
@@ -29546,7 +29549,10 @@
           "injury": 1,
           "malfunction": 3
         }
-      ]
+      ],
+      "name": "Abbott HeartMate II LVAD",
+      "data_window": "Nov 2017 to Sep 2025",
+      "filing_date": "2018-07"
     },
     {
       "case_name": "Arthrex Hip Fixation",
@@ -30128,7 +30134,10 @@
           "injury": 1,
           "malfunction": 68
         }
-      ]
+      ],
+      "name": "Arthrex Hip Fixation System",
+      "data_window": "Mar 2018 to Sep 2025",
+      "filing_date": "2019-10"
     },
     {
       "case_name": "Boston Scientific Lotus Edge Valve",
@@ -30647,7 +30656,10 @@
           "injury": 0,
           "malfunction": 1
         }
-      ]
+      ],
+      "name": "Boston Scientific Lotus Edge Valve",
+      "data_window": "Jan 2018 to Sep 2025",
+      "filing_date": "2018-12"
     },
     {
       "case_name": "Conformis iTotal Knee",
@@ -31180,7 +31192,10 @@
           "injury": 0,
           "malfunction": 2
         }
-      ]
+      ],
+      "name": "Conformis iTotal CR Knee",
+      "data_window": "Jan 2019 to Sep 2025",
+      "filing_date": "2020-01"
     },
     {
       "case_name": "Fresenius GranuFlo/NaturaLyte",
@@ -32022,7 +32037,10 @@
           "malfunction": 0
         }
       ],
-      "settlement": 250000000
+      "settlement": 250000000,
+      "name": "Fresenius GranuFlo/NaturaLyte",
+      "data_window": "Jun 2012 to Jul 2025",
+      "filing_date": "2013-02"
     },
     {
       "case_name": "Medtronic Bone Screw",
@@ -32702,7 +32720,10 @@
           "injury": 21,
           "malfunction": 58
         }
-      ]
+      ],
+      "name": "Medtronic Infuse Bone Graft",
+      "data_window": "Nov 2017 to Sep 2025",
+      "filing_date": "2018-05"
     },
     {
       "case_name": "Medtronic MiniMed Insulin Pump",
@@ -33144,7 +33165,10 @@
           "injury": 0,
           "malfunction": 129
         }
-      ]
+      ],
+      "name": "Medtronic MiniMed Insulin Pump",
+      "data_window": "Apr 2020 to Apr 2025",
+      "filing_date": "2021-03"
     },
     {
       "case_name": "Medtronic Paradigm Insulin Pump",
@@ -33804,7 +33828,10 @@
           "injury": 225,
           "malfunction": 278
         }
-      ]
+      ],
+      "name": "Medtronic Synchromed II Pain Pump",
+      "data_window": "Dec 2017 to Sep 2025",
+      "filing_date": "2018-12"
     },
     {
       "case_name": "NuVasive XLIF Implant",
@@ -34491,7 +34518,10 @@
           "injury": 1,
           "malfunction": 4
         }
-      ]
+      ],
+      "name": "NuVasive XLIF Spinal System",
+      "data_window": "Aug 2017 to Sep 2025",
+      "filing_date": "2017-11"
     },
     {
       "case_name": "Olympus Duodenoscope",
@@ -34905,7 +34935,10 @@
           "injury": 0,
           "malfunction": 5
         }
-      ]
+      ],
+      "name": "Olympus TJF-Q180V Duodenoscope",
+      "data_window": "Oct 2016 to Jun 2025",
+      "filing_date": "2017-03"
     },
     {
       "case_name": "Paragard IUD",
@@ -35536,7 +35569,10 @@
           "injury": 45,
           "malfunction": 2
         }
-      ]
+      ],
+      "name": "Paragard IUD",
+      "data_window": "Jun 2018 to Sep 2025",
+      "filing_date": "2018-10"
     },
     {
       "case_name": "Smith & Nephew Birmingham Hip",
@@ -36321,7 +36357,10 @@
           "injury": 17,
           "malfunction": 16
         }
-      ]
+      ],
+      "name": "Smith & Nephew Birmingham Hip Resurfacing",
+      "data_window": "Aug 2016 to Sep 2025",
+      "filing_date": "2017-04"
     },
     {
       "case_name": "Stryker LFIT V40 Femoral Head",
@@ -37113,7 +37152,10 @@
           "injury": 7,
           "malfunction": 0
         }
-      ]
+      ],
+      "name": "Stryker LFIT V40 Femoral Head",
+      "data_window": "Jul 2016 to Sep 2025",
+      "filing_date": "2016-11"
     },
     {
       "case_name": "Stryker Trident/Accolade TMZF Hip",
@@ -37716,7 +37758,10 @@
           "injury": 246,
           "malfunction": 196
         }
-      ]
+      ],
+      "name": "Stryker TMZF Modular Hip System",
+      "data_window": "Oct 2018 to Sep 2025",
+      "filing_date": "2019-11"
     },
     {
       "case_name": "Teleflex EZ-IO Device",
@@ -38137,7 +38182,10 @@
           "injury": 6,
           "malfunction": 116
         }
-      ]
+      ],
+      "name": "Teleflex EZ-IO Intraosseous Device",
+      "data_window": "Dec 2020 to Sep 2025",
+      "filing_date": "2021-12"
     },
     {
       "case_name": "Wright Profemur Hip",
@@ -38943,7 +38991,10 @@
           "injury": 6,
           "malfunction": 0
         }
-      ]
+      ],
+      "name": "Wright Medical Profemur Hip System",
+      "data_window": "May 2016 to Sep 2025",
+      "filing_date": "2016-06"
     },
     {
       "case_name": "Zimmer Persona Knee",
@@ -39525,7 +39576,10 @@
           "injury": 204,
           "malfunction": 77
         }
-      ]
+      ],
+      "name": "Zimmer Persona Knee System",
+      "data_window": "Jan 2019 to Sep 2025",
+      "filing_date": "2020-01"
     }
   ]
 }
